@@ -1,0 +1,19 @@
+.Botones{
+    border-color: transparent;
+    background-color: transparent;
+    color: whitesmoke;        
+    cursor: pointer;
+    flex: auto;
+}
+.etiquetas{
+    flex: auto;
+    color: whitesmoke; 
+}
+body{
+    background-color: black;
+}
+
+.Encabezado{
+    height: auto;
+    width: 90px;
+}
